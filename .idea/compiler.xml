@@ -9,8 +9,5 @@
         <module name="StonePaperScissors" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="StonePaperScissors" target="18" />
-    </bytecodeTargetLevel>
   </component>
 </project>
